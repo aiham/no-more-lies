@@ -21,7 +21,7 @@ npm install no-more-lies
 ## Run Tests
 
 ```sh
-npm test
+mocha
 ```
 
 ## Usage
