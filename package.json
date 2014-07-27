@@ -1,0 +1,30 @@
+{
+  "name": "no-more-lies",
+  "version": "1.0.0",
+  "description": "Javascript normaliser for user input from web forms, APIs, etc.",
+  "main": "no-more-lies.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aiham/no-more-lies.git"
+  },
+  "keywords": [
+    "user",
+    "input",
+    "normalize",
+    "normalizer"
+    "normalise",
+    "normaliser"
+  ],
+  "author": "Aiham Hammami <aiham@aiham.net> (http://www.aiham.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aiham/no-more-lies/issues"
+  },
+  "homepage": "https://github.com/aiham/no-more-lies"
+}
