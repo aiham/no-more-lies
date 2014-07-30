@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,9 @@
     "normalise",
     "normaliser"
   ],
+  "devDependencies": {
+    "mocha": "~1.21.3"
+  },
   "author": "Aiham Hammami <aiham@aiham.net> (http://www.aiham.net/)",
   "license": "MIT",
   "bugs": {

@@ -1,6 +1,6 @@
 # no-more-lies
 
-[![NPM version](https://badge.fury.io/js/no-more-lies.svg)](http://badge.fury.io/js/no-more-lies)
+[![NPM version](https://badge.fury.io/js/no-more-lies.svg)](http://badge.fury.io/js/no-more-lies) [![Travis-CI](https://travis-ci.org/aiham/no-more-lies.svg?branch=master)](https://travis-ci.org/aiham/no-more-lies)
 
 no-more-lies is a Javascript normaliser for user input from web forms, APIs, etc.
 
@@ -21,7 +21,7 @@ npm install no-more-lies
 ## Run Tests
 
 ```sh
-mocha
+npm test
 ```
 
 ## Usage
