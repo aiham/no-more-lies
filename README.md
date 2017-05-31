@@ -10,7 +10,7 @@ no-more-lies is a Javascript normaliser for user input from web forms, APIs, etc
 - [mocha][] (To run tests)
 
 [Node.js]: http://nodejs.org/
-[mocha]: http://visionmedia.github.io/mocha/
+[mocha]: http://mochajs.org/
 
 ## Installation
 
